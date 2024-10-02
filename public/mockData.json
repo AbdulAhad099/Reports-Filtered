@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "date": "2024-09-20",
+      "reportType": "Sales",
+      "branch": "Malir",
+      "checklist": "Completed"
+    },
+    {
+      "id": 2,
+      "date": "2024-09-21",
+      "reportType": "Inventory",
+      "branch": "Clifton",
+      "checklist": "Pending"
+    },
+    {
+      "id": 3,
+      "date": "2024-09-22",
+      "reportType": "Finance",
+      "branch": "North Karachi",
+      "checklist": "Completed"
+    }
+  ]
+  
